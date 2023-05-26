@@ -1,0 +1,369 @@
+
+@media (min-width:1400px) and (max-width:2000px){
+    .plan-1 h6::after{       
+        width: 130px;
+        
+      }
+      .plan-2 h6::after{
+        width: 70px;
+      }
+      .plan-3 h6::after{
+        width: 70px;
+      }
+      .plan-4 h6::before{       
+        width: 130px;
+        
+      }
+      .plan-5 h6::before{       
+        width: 70px;
+        
+      }
+      .plan-6 h6::before{       
+        width: 60px;
+        
+      }
+}
+@media (min-width:992px) and (max-width:1340px) {
+    
+    .virus-shape .virus3{
+        
+        width: 100px;
+        height: 100px;
+    }
+    .virus-shape .virus-big{
+        width: 210px;
+        height: 210px;
+        right: 70px;
+        top: 15px;
+}
+.virus-shape .virus2 {
+    width: 120px;
+    height: 120px;
+    top: 185px;
+    left: 15px;
+    }
+    .virus-shape .virus4 {
+        width: 100px;
+        height: 100px;
+        top: 185px;
+        right: 30px;
+    }
+    .sliding .line-slide{
+        font-size: 10px;
+        font-weight: 200;
+        width: 100%; 
+    
+    } 
+
+}  
+@media (min-width:990px) and (max-width:1200px){
+    .navbar-nav .nav-link{
+        color: #767f97;
+         font-size: 12px;
+        font-weight: bold;
+       }
+       .plan-1 h6::after{       
+        width: 50px;
+        
+      }
+      .plan-2 h6{
+        font-size: 13px;
+        
+      }
+      .plan-2 h6::after{
+        width: 20px;
+        right:54px;
+      }
+      .plan-3 h6{       
+        font-size: 13px;
+        
+      }
+      .plan-3 h6::after{
+        width: 10px;
+        right:55px;
+      }
+      .plan-4 h6::before{       
+        width: 45px;
+        
+      }
+      .plan-5 h6{        
+        font-size: 13px;
+        
+      }
+      .plan-5 h6::before{       
+        width: 20px;
+        left:55px;
+      }
+
+      .plan-6 h6{        
+        font-size: 13px;
+        
+      }
+      .plan-6 h6::before{       
+        width: 10px;
+        left:55px;
+      }
+}
+@media (min-width:768px) and (max-width:990px){
+    .plan-1 h6::after{       
+        width: 520px;      
+      }
+      .plan-2 h6::after{       
+        width: 450px;       
+      }
+      .plan-3 h6::after{       
+        width: 450px;
+      }
+      .plan-4 h6::before{       
+        width: 520px;
+      }
+      .plan-5 h6::before{       
+        width: 460px; 
+      }
+      .plan-6 h6::before{       
+        width: 450px; 
+      }
+}
+@media (min-width:400px) and (max-width:767px){
+    .plan-1 h6::after{       
+        width: 220px;      
+      }
+      .plan-2 h6::after{       
+        width: 170px;       
+      }
+      .plan-3 h6::after{       
+        width: 165px;
+      }
+      .plan-4 h6::before{       
+        width: 220px;
+      }
+      .plan-5 h6::before{       
+        width: 160px; 
+      }
+      .plan-6 h6::before{       
+        width: 155px; 
+      }
+}
+@media (min-width:486px) and (max-width:538px) {
+    .subtitle h2 span{
+        font-size: 32px; 
+    } 
+}
+@media (min-width:350px) and (max-width:399px){
+    .plan-1 h6::after{       
+        width: 200px;      
+      }
+      .plan-2 h6::after{       
+        width: 140px;       
+      }
+      .plan-3 h6::after{       
+        width: 135px;
+      }
+      .plan-4 h6::before{       
+        width: 200px;
+      }
+      .plan-5 h6::before{       
+        width: 140px; 
+      }
+      .plan-6 h6::before{       
+        width: 140px; 
+      }
+}
+@media  (max-width:1320px) {
+    .map{
+        display: none;
+    }
+    .map-support{
+        display: none;
+    }
+    
+}
+@media  (max-width:1200px) {
+   
+    .slider-spread .owl-nav .owl-prev span{
+        font-size: 50px;
+         color: #5177e6;
+         position: absolute;
+         left: 0px;
+         border: none;
+         
+         }
+         .slider-spread .owl-nav .owl-next span{
+           font-size: 50px;
+         color: #5177e6;
+         position: absolute;
+         right: 0px;
+       
+         } 
+}
+@media  (max-width:991px) {
+    
+    
+    .button-top {
+        display: none;
+    }
+    div .prevention-card{
+        margin-top: 10px;
+       }
+       .img-6{
+        margin-bottom: 15px;
+      }
+    div .crona-card{
+       margin-bottom: 10px;
+      }
+      .button-help-s {
+        font-weight: 400;
+      
+      }
+      .symptoms-question .icon-mark{
+        font-size: 50px;
+        padding-top: 50px;
+        padding-right: 5px;
+       
+      }
+
+    .main-section{
+     margin-bottom: 50px;
+     padding-top: 20px;
+    }
+    .sliding .line-slide {
+        font-size: 7px;
+        font-weight: 400;
+      
+      }
+      .last-news span {
+        font-size: 10px;
+        
+        font-weight: 500;
+      }
+       
+     
+      .virus-shape .virus3{ 
+        width: 120px;
+        height: 120px;
+       top: -200px;
+       right: 240px;
+    }
+    .virus-shape .virus-big{
+        width: 190px;
+    height: 190px;
+    top: -150px;
+    right: 50px;
+    
+    }
+    .virus-shape .virus2 {
+        width: 110px;
+        height: 110px;
+        top: -75px;
+        left: 190px;
+    }
+    .virus-shape .virus4 {
+        width: 100px;
+        height: 100px;
+        top: 20px;
+        left: 300px;
+    }
+    .second-side{
+         padding-top: 50px;
+    }
+    .third-side{
+        padding-top: 50px;
+    }
+    .last-side{
+        padding-top: 50px;
+    }
+    
+    
+}
+@media  (max-width:520px) {
+    
+    .virus-shape .virus2 {
+        width: 110px;
+        height: 110px;
+        top: 20px;
+        left: 200px;
+    }
+    .virus-shape .virus4 {
+        width: 100px;
+        height: 100px;
+        top: 30px;
+        left: 80px;
+    }
+
+}
+@media  (max-width:494px) {
+    .covid-heading h1 {
+        margin-top: 10px;
+        font-size: 70px
+      }
+      .sliding .line-slide {
+        font-size: 5px;
+        font-weight: 400;
+      
+      }
+      .sms-icon i{
+       
+      font-size: 30px;
+      bottom: 30px;
+      
+     
+     }
+     
+      
+}
+ @media  (max-width:426px) {
+        .covid-heading h1 {
+            margin-top: 20px;
+            font-size: 55px
+          }
+          .button-main-help {
+            z-index: 9;
+            font-weight: 700;
+            text-decoration: none;
+            color: white;
+          }
+          
+          .button-main-help:hover {
+            color: white;
+          }
+          .button-main {
+            position: relative;
+            color: white;
+            background-color: var(--blue-color);
+            border: none;
+            border-radius: 3px;
+            width: 170px;
+            height: 60px;
+            text-decoration: none;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-left: 30px;
+          }
+          .button-main:before {
+            content: "";
+            background-color: var(--red-color);
+            border: none;
+            border-radius: 3px;
+            width: 137px;
+            height: 60px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transform-origin: 50%;
+            transform: scaleX(0);
+            transition-property: transform;
+            transition-duration: .4s;
+            transition-timing-function: ease-out;
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            
+          }
+          .button-main:hover:before {
+            transform: scaleX(1); 
+           
+          }
+}
